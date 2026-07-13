@@ -46,7 +46,7 @@ A responsive, professionally designed landing page built to showcase IT services
 ### 📫 Let's Connect!
 
 - 📧 **Email:** [ajaykumarpatel7274@gmail.com](mailto:ajaykumarpatel7274@gmail.com)
-- 💼 **LinkedIn:** [Ajay Kumar Patel](#) *(Add your LinkedIn URL here)*
+- 💼 **LinkedIn:** [Ajaykumarpatel](https://www.linkedin.com/in/ajaykumar-patel-929a18319/)
 
 <br>
 
