@@ -32,16 +32,14 @@ A fully responsive, single-page culinary web application engineered for maximum 
 - **Tech:** HTML5, CSS3, Vanilla JavaScript, Bootstrap 5.
 - **Features:** Dynamic JavaScript data counters, interactive statistical progress metrics, custom-styled testimonial carousels, and seamless mobile-first responsive scaling.
 
-#### 🗺️ [Jharkhand Tourism Project](#)
+#### 🗺️ [Jharkhand Tourism Project](https://jarakhand-tourism-project.vercel.app/)
 A front-end web project featuring an interactive UI designed to highlight and promote regional tourism.
 - **Tech:** HTML, CSS, JavaScript.
 
-#### 🌐 [prodeskIT Landing Page](#)
+#### 🌐 [prodeskIT Landing Page](https://sprint-1-black.vercel.app/)
 A responsive, professionally designed landing page built to showcase IT services and solutions with a modern UI.
 - **Tech:** HTML5, CSS3, JavaScript. *(Update with specific frameworks if used)*
 - **Features:** Clean, user-friendly interface, optimized for mobile responsiveness, and structured semantic layout. *(Update with specific features)*
-
-*(Note: Replace the `#` in the brackets above with the actual repository links!)*
 
 ---
 
