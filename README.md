@@ -27,7 +27,7 @@ I'm a detail-oriented Bachelor of Computer Applications (BCA) student specializi
 
 ### 📂 Featured Projects
 
-#### 🍽️ [EISystems (Foodies Bread) Restaurant Web App](#) 
+#### 🍽️ [EISystems (Foodies Bread) Restaurant Web App](https://resto-system.netlify.app/) 
 A fully responsive, single-page culinary web application engineered for maximum conversion and performance. 
 - **Tech:** HTML5, CSS3, Vanilla JavaScript, Bootstrap 5.
 - **Features:** Dynamic JavaScript data counters, interactive statistical progress metrics, custom-styled testimonial carousels, and seamless mobile-first responsive scaling.
