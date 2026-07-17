@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  I love bridging the gap between heavy mathematical theories and interactive software. From rendering pixels on a grid to optimizing operations and monitoring NVIDIA performance overlays, I build tools that make complex logic visible and accessible.
+  I love bridging the gap between heavy mathematical theories and interactive software. From rendering pixels on a grid to optimizing operations, I build tools that make complex logic visible and accessible.
 </p>
 
 <p align="center">
