@@ -57,14 +57,12 @@ A front-end web project featuring an interactive UI designed to highlight and pr
 #### **🌐 [prodeskIT Landing Page](https://sprint-1-black.vercel.app/)**
 A responsive, professionally designed landing page built to showcase IT services and solutions with a modern UI.
 - **Tech:** HTML5, CSS3, JavaScript. *(Update with specific frameworks if used)*
-- **Features:** Clean, user-friendly interface, optimized for mobile responsiveness, and structured semantic layout. *(Update with specific features)*
+- **Features:** Clean, user-friendly interface, optimized for mobile responsiveness, and structured semantic layout.
 
 ---
 
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajaykp2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykp2006&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" width="48%"/>
 </div>
-
-<br>
