@@ -42,22 +42,22 @@
 
 ### 🚀 Featured Creations
 
-> **[🎨 DDA Line Algorithm Visualizer](https://script.google.com/macros/s/AKfycbwWko-5qWWstLSFF_LCLdVhSZVrWvYZgky9JWec7vRcXzVerBhZITv8vTtiLemd9buw/exec)** *(Replace with your link)*  
+> **[🎨 DDA Line Algorithm Visualizer](https://script.google.com/macros/s/AKfycbwWko-5qWWstLSFF_LCLdVhSZVrWvYZgky9JWec7vRcXzVerBhZITv8vTtiLemd9buw/exec)** 
 > Watch math come alive! I built a Vanilla JS & Canvas tool that calculates exact coordinate differentials to rasterize continuous lines onto a discrete 20x20 pixel grid in real-time.
 
 
 ### 📂 Featured Projects
 
-#### 🍽️ [EISystems (Foodies Bread) Restaurant Web App](https://resto-system.netlify.app) 
+#### **🍽️ [EISystems (Foodies Bread) Restaurant Web App](https://resto-system.netlify.app) **
 A fully responsive, single-page culinary web application engineered for maximum conversion and performance. 
 - **Tech:** HTML5, CSS3, Vanilla JavaScript, Bootstrap 5.
 - **Features:** Dynamic JavaScript data counters, interactive statistical progress metrics, custom-styled testimonial carousels, and seamless mobile-first responsive scaling.
 
-#### 🗺️ [Jharkhand Tourism Project](https://jarakhand-tourism-project.vercel.app/)
+#### **🗺️ [Jharkhand Tourism Project](https://jarakhand-tourism-project.vercel.app/)**
 A front-end web project featuring an interactive UI designed to highlight and promote regional tourism.
 - **Tech:** HTML, CSS, JavaScript.
 
-#### 🌐 [prodeskIT Landing Page](https://sprint-1-black.vercel.app/)
+#### **🌐 [prodeskIT Landing Page](https://sprint-1-black.vercel.app/)**
 A responsive, professionally designed landing page built to showcase IT services and solutions with a modern UI.
 - **Tech:** HTML5, CSS3, JavaScript. *(Update with specific frameworks if used)*
 - **Features:** Clean, user-friendly interface, optimized for mobile responsiveness, and structured semantic layout. *(Update with specific features)*
@@ -67,12 +67,18 @@ A responsive, professionally designed landing page built to showcase IT services
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajaykp2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykp2006&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajaykp2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykp2006&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" width="48%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykp2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykp2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" width="50%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Pixels are just math waiting to be drawn."</i>
 </div>
