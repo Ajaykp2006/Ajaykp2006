@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there, I'm Ajay! 🚀</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=16A34A&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Math+%2B+Graphics+Nerd;Building+Interactive+Algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=16A34A&center=true&vCenter=true&width=600&lines=CS-STUDENT+FRONTEND-DESIGNING+WEB-DESIGNING;Math+%2B+Graphics+Nerd;Building+Interactive+Algorithms" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -32,18 +32,35 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <!-- Add C++, Python, or Java below if you use them! -->
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <br>
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
 </div>
 
 ---
 
 ### 🚀 Featured Creations
 
-> **[🎨 DDA Line Algorithm Visualizer](#)** *(Replace with your link)*  
+> **[🎨 DDA Line Algorithm Visualizer](https://script.google.com/macros/s/AKfycbwWko-5qWWstLSFF_LCLdVhSZVrWvYZgky9JWec7vRcXzVerBhZITv8vTtiLemd9buw/exec)** *(Replace with your link)*  
 > Watch math come alive! I built a Vanilla JS & Canvas tool that calculates exact coordinate differentials to rasterize continuous lines onto a discrete 20x20 pixel grid in real-time.
+
+
+### 📂 Featured Projects
+
+#### 🍽️ [EISystems (Foodies Bread) Restaurant Web App](https://resto-system.netlify.app) 
+A fully responsive, single-page culinary web application engineered for maximum conversion and performance. 
+- **Tech:** HTML5, CSS3, Vanilla JavaScript, Bootstrap 5.
+- **Features:** Dynamic JavaScript data counters, interactive statistical progress metrics, custom-styled testimonial carousels, and seamless mobile-first responsive scaling.
+
+#### 🗺️ [Jharkhand Tourism Project](https://jarakhand-tourism-project.vercel.app/)
+A front-end web project featuring an interactive UI designed to highlight and promote regional tourism.
+- **Tech:** HTML, CSS, JavaScript.
+
+#### 🌐 [prodeskIT Landing Page](https://sprint-1-black.vercel.app/)
+A responsive, professionally designed landing page built to showcase IT services and solutions with a modern UI.
+- **Tech:** HTML5, CSS3, JavaScript. *(Update with specific frameworks if used)*
+- **Features:** Clean, user-friendly interface, optimized for mobile responsiveness, and structured semantic layout. *(Update with specific features)*
 
 ---
 
@@ -58,10 +75,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykp2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <i>"Pixels are just math waiting to be drawn."</i>
 </div>
