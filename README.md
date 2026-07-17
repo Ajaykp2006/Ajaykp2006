@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there, I'm Ajay! 🚀</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=16A34A&center=true&vCenter=true&width=600&lines=CS-STUDENT+FRONTEND-DESIGNING+WEB-DESIGNING;Math+%2B+Graphics+Nerd;Building+Interactive+Algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=16A34A&center=true&vCenter=true&width=600&lines=CS-STUDENT+FRONTEND-DESIGNING+WEB-DESIGNING;Building+Interactive+WEBSITES" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="ajaykumarpatel7274@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach_Out-%23EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
