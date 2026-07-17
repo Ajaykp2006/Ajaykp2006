@@ -11,9 +11,6 @@
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mcmt.ajaykp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-%23EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
 </p>
 
 ---
@@ -68,17 +65,6 @@ A responsive, professionally designed landing page built to showcase IT services
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ajaykp2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykp2006&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" width="48%"/>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykp2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" width="50%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <i>"Pixels are just math waiting to be drawn."</i>
-</div>
