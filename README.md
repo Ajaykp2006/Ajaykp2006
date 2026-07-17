@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there, I'm Ajay! 🚀</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=16A34A&center=true&vCenter=true&width=600&lines=CS-STUDENT;FRONTEND-DESIGNING;WEB-DESIGNING;Building+Interactive+WEBSITES" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=16A34A&center=true&vCenter=true&width=600&lines=CS-STUDENT;FRONTEND-DESIGNING;WEB-DEVELOPEMENT;BUILDING+INTERACTIVE+WEBSITES" alt="Typing SVG" />
 </div>
 
 <p align="center">
